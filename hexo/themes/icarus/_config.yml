@@ -1,10 +1,12 @@
 # Menus
 menu:
-  Home: .
+  裂缝: .
   Archives: archives
   Categories: categories
-  Tags: tags
-  About: about
+  标签: tags
+  美女库: beauty
+  关于: about
+ 
 
 # Customize
 customize:
@@ -20,17 +22,18 @@ customize:
         author: 留曦
         author_title: Inventor & Designer
         location: Shenzhen, China
-        follow: https://www.baidu.com/
+        follow: https://damnieel.github.io/
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links:
-        github: https://www.baidu.com/
-        twitter: /
-        facebook: /
-        dribbble: /
-        rss: /
+        github: https://damnieel.github.io/
+        twitter: https://damnieel.github.io/
+        facebook: https://damnieel.github.io/
+        dribbble: https://damnieel.github.io/
+        rss: https://damnieel.github.io/
+        weibo: https://damnieel.github.io/
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
@@ -46,7 +49,7 @@ widgets:
 search:
     insight: true # you need to install `hexo-generator-json-content` before using Insight Search
     swiftype: # enter swiftype install key here
-    baidu: false # you need to disable other search engines to use Baidu search, options: true, false
+    baidu: true # you need to disable other search engines to use Baidu search, options: true, false
 
 # Comment
 comment:
@@ -63,7 +66,7 @@ plugins:
     justified-gallery: true # options: true, false
     google_analytics: # enter the tracking ID for your Google Analytics
     google_site_verification: # enter Google site verification code
-    baidu_analytics: # enter Baidu Analytics hash key
+    baidu_analytics: e2ea531471d13cb70d65653b98c28fa8 # enter Baidu Analytics hash key
 
 # Miscellaneous
 miscellaneous:
@@ -73,4 +76,4 @@ miscellaneous:
         twitter_id:
         google_plus:
     links:
-        Hexo: http://hexo.io
+        weibo: https://damnieel.github.io/
