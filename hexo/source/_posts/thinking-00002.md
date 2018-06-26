@@ -1,6 +1,6 @@
 ---
 title: Winners focus on winning，losers focus on winners
-date: 2018-06-20 17:35:51
+date: 2018-06-20 17:36:51
 author: 秦小明
 tags: 思维
 ---
