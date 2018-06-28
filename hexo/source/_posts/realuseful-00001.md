@@ -50,3 +50,34 @@ ilike fancy
  
 不管是表面多么快乐优秀的一个人、不管是外表多么光鲜亮丽的一个人、都有各自的心结。就像青春注定要漂泊和颠沛流离一般、那些流过的泪、受过的苦、总有过去的一天
  
+It is our choices that show what we truly are, far more than our abilities.
+决定我们一生的，不是能力而是选择。
+
+Life consists not in holding good cards, but in playing well those you hold.
+生活不在于握有一手好牌，而在于把手里的牌打好。
+
+People wanna see you doing well, but not better than them.
+大家都希望你过得好，但不希望比他们自己过得更好。
+
+Looks matter.
+长相很重要。
+
+You have to make decisions all the time. Even postponing a decision is your decision.
+你无时不刻都在做决定，推迟做决定也是做决定。
+
+绝大部分人依然普通动物
+
+Nobody cares unless you are pretty, popular, powerful, or dying.
+除非你长得漂亮、受人欢迎、强大或者死了，否则没人在乎你。
+
+We are all self centric. It's just the radius that varies.
+人都是以自我为中心的，差别只是半径不同。
+
+If you're unique, you WILL feel lonely.
+如果你与众不同，你肯定会感觉孤独。
+
+The number of people in this world who actually care about you is smaller than you think it is.
+真正关心你的人要比你想象中的还要少。
+
+We will be forgotten after we die, just a matter of time.
+死后早晚会被人忘记，这只是个时间问题。
