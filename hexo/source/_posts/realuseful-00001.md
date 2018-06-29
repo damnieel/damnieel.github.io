@@ -24,34 +24,18 @@ tags: realuseful
 站着 跑着 做比不做 把每天琐碎的日子堆砌成伟大的人生
 
 <font color="#dd0000">解决问题比完美解决更重要，二八定律</font>
-香港 台北 佛山 杭州 江苏 上海
-点子 客户现金流 管理
-ilike fancy
-不要兼职起步要全职最贵的不是房租而是青春
-带来客户 留住客户
 就为一份交情 跟客户成为朋友比单纯让他成为客户重要
 创业一定要在乎结果 不赚钱的生意是耍流氓
-作为带头的人要求所有人都要求
-
 
 <font color="#dd0000">任何事都要靠自己、别人没有义务、养成看有益的多方面的书的习惯，翘想翘的课，看想看的书见想见的人，培养发现问题分析问题解决问题的能力，自学能力，列出可执行计划，分析最佳解决路线，然后最重要的去执行计划 不断学习新的知识 为了读书而读书,运用知识信息的能力，比单纯地记住知识重要。 技术上快速犯错快速改正  ，努力工作，拼命玩，拼命吃  培养有效思维方式  有人脉可以节省很多时间</font> 
 
-
-世界上只有一种真正的英雄主义，那就是认清生活之后依然还能热爱生活
-
 我只有自己更努力去证明谁才是强者而别无他法
+
 夢想和好姑娘不可辜负
 
-有时、给现实一个适当的回应就是发疯。及时行乐、此刻才是你的生活
-
-读书方法，定目标、列书单、读两遍、致运用  
 
 我不能在这里变老、我要在变老之前、做一些到了80岁还会微笑的事情。 我想、一个人最好的样子就是平静一点儿、哪怕一个人生活、穿过一个又一个城市、走过一条又一条街道、仰望一片又一片天空、见证一次又一次别离、然后在别人质疑你的时候、你可以问心无愧地对自己说、虽然每一步都走得很慢、但是我不曾退缩过。  
  
-不管是表面多么快乐优秀的一个人、不管是外表多么光鲜亮丽的一个人、都有各自的心结。就像青春注定要漂泊和颠沛流离一般、那些流过的泪、受过的苦、总有过去的一天
- 
-It is our choices that show what we truly are, far more than our abilities.
-决定我们一生的，不是能力而是选择。
 
 Life consists not in holding good cards, but in playing well those you hold.
 生活不在于握有一手好牌，而在于把手里的牌打好。
@@ -76,8 +60,4 @@ We are all self centric. It's just the radius that varies.
 If you're unique, you WILL feel lonely.
 如果你与众不同，你肯定会感觉孤独。
 
-The number of people in this world who actually care about you is smaller than you think it is.
-真正关心你的人要比你想象中的还要少。
 
-We will be forgotten after we die, just a matter of time.
-死后早晚会被人忘记，这只是个时间问题。
