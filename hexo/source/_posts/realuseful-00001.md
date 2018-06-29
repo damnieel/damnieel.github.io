@@ -60,4 +60,4 @@ We are all self centric. It's just the radius that varies.
 If you're unique, you WILL feel lonely.
 如果你与众不同，你肯定会感觉孤独。
 
-
+要是选择拒绝，要果断,别解释(除非有必要)
